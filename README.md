@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h5> Frontend</h5>
 <p >
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
