@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Jeongyun.lee </h1>
 
 <p align='center'>
-  I live on Seoul, Korea and work at <b>Line</b> 
+  I live on Seoul, Korea and work at <b>Line Financial</b> 
 </p>
 
 
